@@ -1,0 +1,15 @@
+##Ajoutés le 2026-03-06
+app-measurement.com
+app-analytics-services.com
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+sdk.privacy-center.org
+trk.pinterest.com
+www.googletagmanager.com
+fr.info.lgsmartad.com
+lgtvonline.lge.com
+logs.ads.vungle.com
+assets.dictivatted-foothers.cloud
+dns.google
+
+
