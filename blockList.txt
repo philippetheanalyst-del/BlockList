@@ -3,6 +3,87 @@ region1.app-analytics-services-att.com
 region1.analytics.google.com
 firebaselogging-pa.googleapis.com
 
+# Pub / tracking
+aax.amazon-adsystem.com
+c.amazon-adsystem.com
+mads.amazon-adsystem.com
+ms4.applovin.com
+ms.applovin.com
+prod-mediate-events.applovin.com
+rt.applovin.com
+sts.applovin.com
+wv.inner-active.mobi
+sdk-events.inner-active.mobi
+cdn2.inner-active.mobi
+nz0mm7-launches.appsflyersdk.com
+d2rzbs.dlsdk.appsflyersdk.com
+impression.appsflyersdk.com
+nz0mm7-skadsdk.appsflyersdk.com
+sdk.fra-01.braze.eu
+sdk.iad-06.braze.com
+sdk.iad-01.braze.com
+sdk.split.io
+events.split.io
+auth.split.io
+streaming.split.io
+api2.amplitude.com
+api-js.mixpanel.com
+api.mixpanel.com
+logx.optimizely.com
+config.inmobi.com
+bat.bing.com
+bat.bing.net
+snap.licdn.com
+tags.tiqcdn.com
+assets.adobedtm.com
+thetracker.org
+default.exp-tas.com
+
+# Télémétrie / analytics
+telemetry.canva.com
+notify.bugsnag.com
+o33249.ingest.us.sentry.io
+o13855.ingest.sentry.io
+o38419.ingest.sentry.io
+sentry.io
+logs-ingress.svc.vinted.com
+metrics-ingress.svc.vinted.com
+wsmetrics.batch.com
+ws.batch.com
+statsigapi.net
+e.clarity.ms
+sb.scorecardresearch.com
+
+# LG TV télémétrie
+eic.recommend.lgtvcommon.com
+eic.cdpsvc.lgtvcommon.com
+eic.wiseconfig.lgtvcommon.com
+eic.rdl.lgtvcommon.com
+eic.cdpbeacon.lgtvcommon.com
+eic.lgtviot.com
+eic.api.lgtviot.com
+eic-ngfts.lge.com
+fr.nextlgsdp.com
+fr.rdx2.nextlgsdp.com
+fr.ibs.nextlgsdp.com
+ngfts.nextlgsdp.com
+ngfts.lge.com
+fr.emp.lgsmartplatform.com
+fr.lgeapi.com
+snu.lge.com
+eic-ngfts.tv.wiselg.com
+
+# Heytap / OnePlus
+mdp-appconf-euex.heytapdl.com
+mdp-appconf-eu.heytapdl.com
+cloudconf-app-fr.heytapmobile.com
+cloudconf-app-eu.heytapmobile.com
+obus-dc-eu.heytapmobile.com
+stgdata-ads-fr.heytapmobile.com
+adx-ads-fr.heytapmobile.com
+global-search-fr.heytapmobile.com
+routergtest14.oneplus.com
+
 ##Ajoutes le 2026-03-08
 
 qvdt3feo.com
