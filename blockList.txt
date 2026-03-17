@@ -1,3 +1,19 @@
+# NTP Alibaba (1800+ requêtes, aucune raison d'y envoyer du trafic)
+ntp1.aliyun.com
+ntp2.aliyun.com
+ntp3.aliyun.com
+ntp4.aliyun.com
+time1.aliyun.com
+time2.aliyun.com
+time3.aliyun.com
+
+# Amazon telemetry device (très actif)
+unagi-eu.amazon.com
+unagi.amazon.fr
+unagi-na.amazon.com
+data-zaz.amazon.com
+api.mshop.bdtelemetry.amazon
+
 ##Ajoutés le 2026-03-10
 region1.app-analytics-services-att.com
 region1.analytics.google.com
