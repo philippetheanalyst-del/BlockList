@@ -1,4 +1,5 @@
-# NTP Alibaba (1800+ requêtes, aucune raison d'y envoyer du trafic)
+
+#Ajoutés le 2026-03-16
 ntp1.aliyun.com
 ntp2.aliyun.com
 ntp3.aliyun.com
@@ -6,8 +7,6 @@ ntp4.aliyun.com
 time1.aliyun.com
 time2.aliyun.com
 time3.aliyun.com
-
-# Amazon telemetry device (très actif)
 unagi-eu.amazon.com
 unagi.amazon.fr
 unagi-na.amazon.com
